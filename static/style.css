@@ -13,7 +13,7 @@ body {
 }
 
 /* Navbar Styles */
-.navbar {
+Nav, .navbar {
     display: flex;
     justify-content: space-between; /* Space between logo and nav links */
     align-items: center; /* Vertically center logo and links */
